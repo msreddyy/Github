@@ -44,7 +44,7 @@ public class MyStepdefs {
     @And("^Click on post button$")
     public void click_on_post_button() throws Throwable {
         System.out.println("Click on post button");
-        System.out.println("This is the Modified Part of it");
+        System.out.println("This is the Modified part of it");
 
     }
 
