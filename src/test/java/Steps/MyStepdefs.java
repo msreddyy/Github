@@ -44,6 +44,8 @@ public class MyStepdefs {
     @And("^Click on post button$")
     public void click_on_post_button() throws Throwable {
         System.out.println("Click on post button");
+        System.out.println("This is the Modified part of itt");
+
     }
 
     @Then("^the message should get posted$")
