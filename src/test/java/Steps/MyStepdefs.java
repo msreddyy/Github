@@ -45,6 +45,7 @@ public class MyStepdefs {
     public void click_on_post_button() throws Throwable {
         System.out.println("Click on post button");
         System.out.println("This is the Modified Part of it");
+
     }
 
     @Then("^the message should get posted$")
