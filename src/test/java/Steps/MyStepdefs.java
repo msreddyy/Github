@@ -51,6 +51,7 @@ public class MyStepdefs {
     @Then("^the message should get posted$")
     public void the_message_should_get_posted() throws Throwable {
         System.out.println("the message should get posted");
+        System.out.println("THhe changes in rms-123");
     }
 
 
